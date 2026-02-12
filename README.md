@@ -20,3 +20,9 @@ That's it.
 ## How to use?
 
 Once in your Editor folder it should automatically be running. There are 4 settings that you can change. Each is explanatory. Just change the script from True/False on each value. There is no fancy editor script (yet)
+
+
+# To-Do
+- Make it more performant?
+- Add Editor options inside the Project-Settings menu
+- Remove window id from list if window closes
