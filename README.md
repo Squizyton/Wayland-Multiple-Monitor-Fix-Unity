@@ -1,8 +1,8 @@
-# Wayland-Multiple-Monitor-Fix-Unity
+# XWayland-Multiple-Monitor-Fix-Unity
 
 ## What is this.
 
-Unity has a bug on Linux builds, specifically with Wayland and how Wayland treats multiple monitors.
+Unity has a bug on Linux builds, specifically with XWayland and how XWayland treats multiple monitors.
 
 The most left monitor is treated as 0,0, So when Unity opens windows, instead of putting it 0,0 with Unity, it put's the windows in the top left most corner of your monitor setup.
 
@@ -26,3 +26,9 @@ Once in your Editor folder it should automatically be running. There are 4 setti
 - Make it more performant?
 - Add Editor options inside the Project-Settings menu
 - Remove window id from list if window closes
+
+  # FAQ
+  - Can I use this with Windows/MacOS?
+  Yea, I guess. 
+
+  - Does Unity Know about this
