@@ -29,6 +29,9 @@ Once in your Editor folder it should automatically be running. There are 4 setti
 
   # FAQ
   - Can I use this with Windows/MacOS?
-  Yea, I guess. 
+  
+Yea, I guess. 
 
   - Does Unity Know about this
+ 
+I don't know. I think so?
